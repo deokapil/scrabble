@@ -1,5 +1,20 @@
 # Multiplayer real-time Scrabble
 
+### Tech used
+
+- Frontend
+  - React 16
+  - mobx
+  - mobx-autoforms
+  - featherjs client for react
+  - Bulma for css framework
+- Backend
+  - Featherjs
+  - express
+  - mongoose
+
+## TODO
+
 ### Frontend
 
 - [x] Login
